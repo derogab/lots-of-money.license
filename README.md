@@ -21,6 +21,8 @@ This license is a fork of these others...
 - [sushi-ware-license](https://github.com/MakeNowJust/sushi-ware)
 - [espresso-license](https://github.com/jack23247/espresso-license)
 - [energy-drink-license](https://github.com/dlcgold/energy_drink-license)
+- [spaghetti-license](https://github.com/Steepo/spaghetti-license)
+- [pizza-license](https://github.com/PumaConcolor/pizza-license)
 
 
 ### It's also a joke!
