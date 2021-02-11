@@ -44,7 +44,7 @@ In case you ever use this license in your project, feel free to sign the [guestb
 
 ### Contribute
 
-If you have an issue or you're keen to translate this document, please feel free to open an [issue](issues) or send a [pull request](pulls).
+If you have an issue or you're keen to translate this document, please feel free to open an [issue](https://github.com/derogab/lots-of-money.license/issues) or send a [pull request](https://github.com/derogab/lots-of-money.license/pulls).
 
 ### Notice
 
