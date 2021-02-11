@@ -2,9 +2,9 @@
 
 ### Introduction
 
-Since I've began using a computer, I've been "agreeing" to the kilometric blurbs software is bundled with way too often, without really understanding what they mean (or even trying in case of EULAs). 
+Since I've begun using a computer, I've been "agreeing" to the kilometric blurbs software is bundled with way too often, without really understanding what they mean (or even trying in case of EULAs). 
 Even the simplest and clearest license, which for me is the [MIT], took me a while to fully understand it. 
-It's true that English is not my native tongue, but why should such complicated terminology be used? Can't we express the same, common meaning with more ease?
+It's true that English is not my mother tongue, but why should such complicated terminology be used? Can't we express the same, common meaning with more ease?
 
 I find this frustrating.
 
