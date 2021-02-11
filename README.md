@@ -32,12 +32,12 @@ This license is definitely a joke, but if someone doesn't notice it wouldn't be 
 
 Just copy the [`LICENSE`](LICENSE) file into your project's root folder, fill the placeholders and push.
 
-[![Lots-of-Money License 💰](https://img.shields.io/badge/license-lots%20of%20money%20💰-7890F0.svg)](https://github.com/derogab/lots-of-money.license)
+[![Lots-of-Money License 💰](https://img.shields.io/badge/license-lots%20of%20money%20💰-ECF0F1.svg)](https://github.com/derogab/lots-of-money.license)
 
 I also created this nice badge you can include in your documentation or `README.md`, by copying the following:
 
 ```markdown
-[![Lots-of-Money License 💰](https://img.shields.io/badge/license-lots%20of%20money%20💰-7890F0.svg)](https://github.com/derogab/lots-of-money.license)
+[![Lots-of-Money License 💰](https://img.shields.io/badge/license-lots%20of%20money%20💰-ECF0F1.svg)](https://github.com/derogab/lots-of-money.license)
 ```
 
 In case you ever use this license in your project, feel free to sign the [guestbook](GUESTBOOK.md)!
